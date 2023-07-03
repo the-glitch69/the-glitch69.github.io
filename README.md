@@ -1,7 +1,5 @@
-<!doctype html>
 <html>
 <head>
-<title>TheGlitch</title>
 </head>
 	
 <body>
